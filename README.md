@@ -29,20 +29,16 @@ _이탤릭_
 - 순서가 필요하지 않은 목록
 - 순서가 필요하지 않은 목록
 
-<<<<<<< HEAD
 
-### 링크( 대괄호, 소괄호)
-=======
 ### 링크 []()
 [Google](https://google.com)  
-
 [NAVER](https://naver.com  "마우스오버시 표시")
 
 
 ### 이미지 ![]()
 ![]()
-![AWS](https://heropy.blog/css/images/logo.png)
-[![AWS](https://heropy.blog/css/images/logo.png)](https://www.naver.com)
+![OKKY](https://okky.kr/okky-munchkin-logo.svg)  
+[![OKKY](https://okky.kr/okky-munchkin-logo.svg)](https://okky.kr)
 
 
 ### 인용문 > 
@@ -53,15 +49,28 @@ _이탤릭_
 >>> 중첩된 인용문2
 >>> 중첩된 인용문3
 
-<<<<<<< HEAD
-=======
 
 ### 인라인(inline) 코드강조
 CSS에서 `backgroud` 와 같이 강조
 
 ### 블록코드 강조
 ```
-test
+내용강조
 ```
+
+```html
+<a href="https://okky.kr" target="_blank">okky</a>
 ```
->>>>>>> login
+
+
+```javascript
+function func(){
+    var a = 'aaa';
+    return a;
+}
+```
+
+```bash
+$ git commit -m 'Study'
+```
+
