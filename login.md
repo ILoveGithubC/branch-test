@@ -2,7 +2,7 @@
 
 # 🍏 iPad
 
-아이패드 제품 페이지를 만드는 예제입니다.
+아이패드 제품 페이지를 만드는 예제입니다. 지도
 
 [DEMO](https://transcendent-naiad-733465.netlify.app/)
 
