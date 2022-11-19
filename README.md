@@ -37,8 +37,8 @@ _이탤릭_
 
 ### 이미지 ![]()
 ![]()
-![AWS](https://heropy.blog/css/images/logo.png)
-[![AWS](https://heropy.blog/css/images/logo.png)](https://www.naver.com)
+![OKKY](https://okky.kr/okky-munchkin-logo.svg)  
+[![OKKY](https://okky.kr/okky-munchkin-logo.svg)](https://okky.kr)
 
 ### 인용문 > 
 > 남의 말이나 글에서 직접 따온문장
@@ -54,6 +54,21 @@ CSS에서 `backgroud` 와 같이 강조
 
 ### 블록코드 강조
 ```
-test
+내용강조
 ```
+
+```html
+<a href="https://okky.kr" target="_blank">okky</a>
+```
+
+
+```javascript
+function func(){
+    var a = 'aaa';
+    return a;
+}
+```
+
+```bash
+$ git commit -m 'Study'
 ```
