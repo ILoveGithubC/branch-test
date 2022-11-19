@@ -72,3 +72,10 @@ function func(){
 ```bash
 $ git commit -m 'Study'
 ```
+
+### 표
+position 속성
+
+값 | 의미 | 기본값
+--|--|--
+static | 기준없음 | O
