@@ -29,9 +29,9 @@ _이탤릭_
 - 순서가 필요하지 않은 목록
 - 순서가 필요하지 않은 목록
 
-
 ### 링크 []()
 [Google](https://google.com)  
+
 [NAVER](https://naver.com  "마우스오버시 표시")
 
 
@@ -39,7 +39,6 @@ _이탤릭_
 ![]()
 ![OKKY](https://okky.kr/okky-munchkin-logo.svg)  
 [![OKKY](https://okky.kr/okky-munchkin-logo.svg)](https://okky.kr)
-
 
 ### 인용문 > 
 > 남의 말이나 글에서 직접 따온문장
@@ -74,3 +73,9 @@ function func(){
 $ git commit -m 'Study'
 ```
 
+### 표
+position 속성
+
+값 | 의미 | 기본값
+--|--|--
+static | 기준없음 | O
